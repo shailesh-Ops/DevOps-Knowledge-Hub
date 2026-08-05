@@ -50,5 +50,7 @@ A tag is a label that you assign to an AWS resource. Each tag consists of a key 
 No tags associated with the resource.
 Add new tag
 
+. final step is just click the button of which is content  " Create Volume " 
+
 Note:- but remember if you want to more one create an volume from snapshot you must be add an tag 
 
