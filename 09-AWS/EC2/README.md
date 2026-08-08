@@ -124,5 +124,7 @@ Storage (volumes)
 
 just click on Launch instance....
 
+also check ✔️  number of instance 
+
 
 Cancel         Launch instance
